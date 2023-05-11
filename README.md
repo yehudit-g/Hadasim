@@ -1,5 +1,5 @@
 # Hadasim
-#כתבתי את התרגיל הראשון בvisual studio code בשפת c#
+כתבתי את התרגיל הראשון בvisual studio code בשפת c#
 
 התרגיל השני בvisual studio code עם node.js ובסיס נתונים mongoDB atlas
 
